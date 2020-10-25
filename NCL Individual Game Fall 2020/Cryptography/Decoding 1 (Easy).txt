@@ -1,0 +1,2 @@
+A couple of hackers have encoded their messages using different number bases. See if you can decode them.
+use online decoders

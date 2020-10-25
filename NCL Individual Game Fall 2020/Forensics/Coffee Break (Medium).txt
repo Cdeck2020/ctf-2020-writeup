@@ -1,0 +1,7 @@
+We're investigating a potential leak involving a personal Android phone, and one employee, Tom, has been identified as a potential suspect. Tom said that he was on vacation during the time of the incident. He took this photo of his old coffee the day he came back. He said that the photo would prove his innocence; had he been home, he would have certainly finished off his favorite beverage.
+
+What brand of phone does Tom have?
+iPhone
+
+On what date did Tom begin his vacation?
+2020-08-11

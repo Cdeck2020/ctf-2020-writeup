@@ -1,0 +1,6 @@
+What is the password used to encrypt the pdf? (15 pts)
+grab the .pdf hash with some online tool
+use rockyou.txt to find
+
+What is the flag in the PDF? (15 pts)
+idk open it xd

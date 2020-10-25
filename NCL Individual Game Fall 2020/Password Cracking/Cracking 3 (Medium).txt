@@ -1,0 +1,4 @@
+We have obtained password dumps storing hacker passwords. 
+It appears that they are all in the format: "SKY-something-" followed by 4 digits. Can you crack them? (Assume MD5)
+
+hashcat again but ?d?d?d?d

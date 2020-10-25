@@ -1,0 +1,13 @@
+One of our analysts just found this document received on our network and it looks highly suspicious. help us investigate this file.
+
+What is the name of the user that created this document?
+Taylor Lancaster
+
+What date was this document originally written (in UTC)?
+2020-10-20
+
+There is a link included inside this document, what is the URL? (Alt + F9)
+https://www.youtube.com/watch?v=LiLS7U7YIdc
+
+There is also a hidden flag inside this document, what is the hidden flag?
+SKY-SCAM-0419

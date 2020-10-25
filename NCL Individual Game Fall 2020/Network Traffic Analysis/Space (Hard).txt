@@ -1,0 +1,24 @@
+We found a packet capture from someone's gaming computer. I wonder what they were up to.
+
+What is the IP address of the game server?
+173.255.210.89
+
+What is the username of the player taking this pcap?
+wolfshirtz
+
+What color did the above player play as?
+
+What are the names and colors of the players who were initially in the lobby before the player capturing the packets joined?
+Give the answer in JSON format, e.g. { "player1": "cyan", "player2": "lime" }
+
+What are the names and colors of all the players who played in the first game? Supply the answer in JSON format like the previous question.
+
+What user later changed their color?
+
+What color did that player change to?
+
+At some point there was some chatter about who the imposters were; which players were imposters?
+toby and jeana
+
+What is the name of the game is being played? (UNCONFIRMED)
+among us

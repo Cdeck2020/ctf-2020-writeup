@@ -1,0 +1,46 @@
+In assisting an online game company with an incident response, we ran into a database backup that we do not know how to handle as it's unlike any database we've seen in the past.
+
+How many users are in this database?
+
+What is the name of the admin user?
+
+How many guest users exist on the system?
+281
+
+How many users have friends?
+2504
+
+What kind of password hashing algorithm does this database use?
+
+Which password hash is used by the most number of users on the system?
+25F9E794323B453885F5181F1B624D0B
+
+How many users do not have a password set?
+31481
+
+How many users had reset their password?
+71
+
+What is the name of the user that sent the most invitations?
+Rawend Bacha
+
+How many users disabled chat on their account?
+4436
+
+How many users did not have a token issued to them?
+
+Which day had the most number of games played?
+
+How many different devices were registered in the database?
+1031
+
+What is the name of the user that had the most number of devices registered?
+
+What is the ID of the device that had the longest time registered from start to end?
+
+Which IP address issued the most number of blocks against other users?
+5.189.154.4
+
+Which IP address was used by exactly 10 users?
+
+What is the hidden flag?

@@ -1,0 +1,8 @@
+What date and time was the photo taken? (round down to the nearest minute)
+2020-10-17 11:59
+
+What is the username of the individual that took this photo?
+redAl3rt2
+
+What is the street address of the tall building in the photo?
+https://goo.gl/maps/GNt6XjaA4ipp4kqj8

@@ -1,0 +1,22 @@
+We managed to get someone on the inside of a small hacking group. Can you figure out what they were chatting about?
+
+What protocol are the hackers using to communicate?
+IRC
+
+What is the nickname of the insider who took the packet capture?
+nx
+
+What is the hacker's nickname?
+b34nd1p
+
+Which channel are they talking in?
+#general
+
+What operating system distribution is the server running on?
+Debian
+
+What software is the server running?
+ngircd
+
+Where will the drop off take place?
+The red dragon

@@ -1,0 +1,22 @@
+Recently some strange logs were found. What can you find out about them?
+
+What application generated these logs?
+Home Assistant
+
+How many components generated logs?
+4
+
+How many threads generated logs?
+46
+
+How many errors occurred on the main thread?
+136
+
+One error is an internal Python error. What is the error type that is raised?
+ValueError
+
+What is the email address for the leaked Amazon account?
+timworthy@mail.cityinthe.cloud
+
+What is the IP address of the my sensors gateway?
+192.168.1.35

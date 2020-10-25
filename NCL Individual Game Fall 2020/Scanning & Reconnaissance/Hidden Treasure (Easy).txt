@@ -1,0 +1,3 @@
+est your scanning abilities. Find the hidden treasure on this HTTPS website
+Use OWASP DirBuster
+big list that's built into dirbuster

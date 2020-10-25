@@ -1,0 +1,3 @@
+We have managed to come across some form of a directory at 52.21.1.196:389. What information can you extract from it?
+Note: please limit your scope to the IP & port provided.
+http://jxplorer.org/

@@ -1,0 +1,4 @@
+We have obtained password dumps storing hacker passwords. They appear to be default passwords to IoT devices. 
+We know these default passwords follow a pattern: a color + a noun + 2 digits and have found a list of nouns used. 
+Can you figure the passwords out? (Make a color wordlist) https://en.wikipedia.org/wiki/List_of_colors_(compact)
+https://hashcat.net/wiki/doku.php?id=hashcat_utils#combinator

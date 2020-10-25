@@ -1,0 +1,16 @@
+A wireless network was hacked. See if you can figure out what happened.
+
+What channel was the victim network operating on?
+10
+
+What is the ESSID of the wifi network that was hacked?
+WIFI_SPOOK_123
+
+What is the MAC address of the victim that was deauthenticated?
+3C:22:FB:12:48:F2
+
+What is the MAC address of the attacker?
+F0:F2:53:88:0A:5B
+
+What is the wireless password (in hex)? (aircrack-ng)
+3E:6A:61:59:2E

@@ -1,0 +1,18 @@
+One of our multiple copies of a file has been corrupted. Can you find out where and how to fix it?
+Working: binFile-1 
+Corrupt: binFile-695
+
+What file has been corrupted?
+binFile-695
+
+What is the Sha256 hash of the corrupted file?
+2CB8607CABB4C37DF4A1798799EED96ECF950D2375004B92E55CE106B5767BFD
+
+At what offset (in hex) does the file differ from the others?
+8A
+
+What is the byte at that offset in the corrupted file (in hex)?
+1A
+
+What is the byte at that offset in a non corrupted file (in hex)?
+1B

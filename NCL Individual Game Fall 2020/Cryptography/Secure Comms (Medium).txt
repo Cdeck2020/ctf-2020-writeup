@@ -1,0 +1,5 @@
+We're sending you a secure communication, please decrypt the message. Please then respond to the encrypted message using the same encrypted protocol here.
+Note: Please use a reputable tool that supports Modification Detection Code (MDC) as that is the best practice to correctly craft your response.
+
+use gpg 
+echo "flag" | gpg --encrypt --armor --recipient-key cyber_command.pub

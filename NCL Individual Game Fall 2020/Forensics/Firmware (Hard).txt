@@ -1,0 +1,14 @@
+We found a fairly strange file on a drive that fell behind a desk. Can you figure out what is is used for?
+
+What type of filesystem is used by the firmware?
+SquashFS
+
+On what day was the backdoor created?
+
+What operating system is being used to run this backdoor?
+OpenWrt
+
+What is the version of the operating system from the previous question?
+19.07.4
+
+What port does the backdoor bind to?

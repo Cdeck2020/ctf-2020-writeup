@@ -1,0 +1,26 @@
+A corporate desktop recently was under attack. Can you figure out what happened using the logs?
+https://github.com/nshalabi/SysmonTools
+
+How many DNS queries were made?
+258
+
+What is the suspicious IP Address?
+12.0.4.18
+
+What is the file that is downloaded and executed by the victim?
+CharacterMancer.exe
+
+What is the process ID of the evil process?
+6772
+
+What is the SHA256 hash of the evil process's file?
+E0940AC3078F6FAC0A0309142F7695A0E73F50FB13037564DAE11A13563E715F
+
+At what time was the process created (round to the nearest minute)?
+2020-07-13 12:50
+
+What time was the process stopped (round to the nearest minute)?
+2020-07-13 12:58
+
+What port is the evil process connecting out to?
+8443

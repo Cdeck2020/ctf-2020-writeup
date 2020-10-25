@@ -1,0 +1,28 @@
+We recently captured some traffic from some browser malware. Can you figure out what it is doing?
+
+What is the IP address of the attacker that is initiating the scan?
+10.0.3.7
+
+What is the IP address of the computer being scanned?
+10.0.3.8
+
+What is the lowest open port number?
+22
+
+What is the highest open port number?
+
+What protocol is being used by the service being running on most of the open ports?
+
+What specific application layer protocol is being used to accomplish this scan?
+WebSocket
+
+What is the IP address of the computer the attacker uses to pivot within the network?
+10.0.3.6
+
+What is the name of the software used to pivot in the network?
+
+What is the host name of the PC used to pivot. 
+
+What is the name of the software framework used to communicate results back to the server?
+
+In the framework referenced above, what is the event that the server listens for to receive scan data?

@@ -1,0 +1,5 @@
+Our officers have obtained password dumps storing hacker passwords. Can you figure them out? (Assume MD5)
+use hashcat 
+use rockyou.txt for 1-3
+4th one you can use rockyou.txt + 2 randoms so in hashcat
+rockyou.txt ?a?a
